@@ -49,7 +49,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Chers amis, j'aimerais partager avec vous ma passion et mon engagement à travers ma page professionnelle sur Facebook. Si vous trouvez de la valeur dans ce que je fais, je vous invite cordialement à soutenir mon projet en partageant cette page. Votre support contribuera à élargir mon réseau et à renforcer mon impact. Merci du fond du cœur pour votre précieuse collaboration ! #PartageProfessionnel #RéseauEngagé https://duguayworld.github.io/"
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
