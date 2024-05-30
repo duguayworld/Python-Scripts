@@ -51,7 +51,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Chers amis, j'aimerais partager avec vous ma passion et mon engagement à travers ma page professionnelle sur Facebook. Si vous trouvez de la valeur dans ce que je fais, je vous invite cordialement à soutenir mon projet en partageant cette page. Votre support contribuera à élargir mon réseau et à renforcer mon impact. Merci du fond du cœur pour votre précieuse collaboration ! #PartageProfessionnel #RéseauEngagé https://duguayworld.github.io/"
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -127,7 +126,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Découvrez DB Web Media, ma page Facebook dédiée aux services professionnels dans le domaine du web et des médias. Suivez-nous pour rester informé(e) sur nos derniers projets, actualités et astuces dans le monde numérique. Rejoignez la communauté et explorez les opportunités ensemble ! #DBWebMedia https://www.facebook.com/profile.php?id=61555239764539"
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -203,7 +201,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Suivez-nous pour explorer nos projets inspirants, rester informé(e) des dernières tendances numériques et partager cette expérience visuelle unique. Rejoignez-nous et faites partie de notre communauté ! #DBWebMedia #InspirationDigitale https://www.instagram.com/p/C2AaqftrYRP/?utm_source=ig_web_copy_link"
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -355,7 +352,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Chers amis et collègues, je vous invite à explorer et à soutenir mon parcours professionnel sur LinkedIn. Connectons-nous pour échanger sur nos expériences, partager des idées et construire ensemble un réseau dynamique. Votre soutien est précieux! #RéseauProfessionnel #LinkedIn https://www.linkedin.com/in/duguayworld/"
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -431,7 +427,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Merci d'avance pour vos partage!\nhttps://rebrand.ly/xcyktja\n#DBWebMedia\n#OdysseeConstruction"
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -507,7 +502,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Suivez le développement de votre page web en live. Vivez l'expérience avec le site de l'un de nos clients.\nhttps://duguayworld.github.io/Jeff/index.html"
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -583,7 +577,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Essayez nos pages web en direct. Cette page web est une démo.\nhttps://duguayworld.github.io/Demos/PromoWeb/index.html\nIl n'a jamais été aussi facile de lancer un produit en ligne.\n#DBWebMedia"
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -659,7 +652,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Pour des publicités de qualité, pensez à DBWebMedia.\nhttps://rebrand.ly/t718z8w\n#DBWebMedia\n#ElevagesJR"
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -811,7 +803,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Pour des publicités de qualité, pensez à DBWebMedia.\nhttps://rb.gy/g8t6zt\n#DBWebMedia"
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -887,7 +878,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Voici une publicité réalisée pour un client satisfait, Électricité DJ Inc.\nhttps://rebrand.ly/qny4vx2\n#DBWebMedia\n#ÉlectricitéDJInc."
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -963,7 +953,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Voici une publicité réalisée pour un client satisfait, Électricité DJ Inc.\nhttps://rebrand.ly/ghq9flu\n#DBWebMedia\n#ÉlectricitéDJInc."
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
@@ -1039,7 +1028,6 @@ WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, popup_
 # Find the text box within the pop-up and enter text
 popup_textbox = driver.find_element(By.XPATH, popup_textbox_xpath)
 popup_textbox.send_keys(
-    "Suivez le développement de votre page web en live. Vivez l'expérience avec le site de l'un de nos clients.\nhttps://duguayworld.github.io/JS/index.html\n#ÉlectricitéDJ\n#DBWebMedia "
 )
 
 # Use ActionChains to press Shift + Tab multiple times and press Enter
