@@ -7,8 +7,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
-email = 'duguay_world@outlook.com'
-password = 'Notnewtothegame89!'
+username = ''
+password = '!'
 post_text = "Some test I am doing tonight!"
 
 chrome_options = webdriver.ChromeOptions()
