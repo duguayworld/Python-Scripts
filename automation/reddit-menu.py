@@ -7,11 +7,11 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 
 # Replace these with your Reddit credentials
-reddit_username = "duguayworld"
-reddit_password = "Notnewtothegame89!"
+username = ''
+password = '!'
 
 # Replace this with the list of paths to your image files
-image_paths = ["/home/bnzo/PycharmProjects/pythonProject/Automation/Media/screenshot2.png", "/home/bnzo/PycharmProjects/pythonProject/Automation/Media/screenshot3.png"]
+image_paths = 
 
 # Set up ChromeOptions to use Chromium executable
 chrome_options = webdriver.ChromeOptions()
