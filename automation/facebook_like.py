@@ -7,8 +7,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-email = 'duguay_world@outlook.com'
-password = 'Notnewtothegame89!'
+email = ''
+password = '!'
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("--disable-notifications")
